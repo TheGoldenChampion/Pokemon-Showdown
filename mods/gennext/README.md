@@ -204,6 +204,8 @@ New mechanic: Signature Pokémon:
   - Snorlax: Snore (100 base power)
 
   - Persian: Slash (60 base power 30% -1 Def)
+  
+  - Gallade: Psycho Cut (75 base power)
 
 - Again, note that while the Signature Pokémon will get the 1.5x damage boost,
   all Pokémon will get the other changes to the move listed above.
@@ -499,7 +501,7 @@ Minor item changes:
 Bans:
 
 - The OU banlist (i.e. Pokémon considered Uber) is now:
-  - Every Pokémon with over 600 BST except Slaking and Regigigas
+  - Every Pokémon with over 600 BST except Slaking and Regigigas 
   - Deoxys (all formes)
   - Darkrai
   - Shaymin-Sky
